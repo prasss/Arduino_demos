@@ -1,7 +1,7 @@
 #include <XBee.h>
 #include <SoftwareSerial.h>
 /*
-This example is for Series 2 XBee
+This example is for Series 2 XBee ...
  Sends a ZB TX request with the value of analogRead(pin5) and checks the status response for success
 */
 //SoftwareSerial mySerial(10, 11); // RX, TX
